@@ -1,0 +1,2 @@
+2017-03-01 00:27:36 [main] INFO  Reader - Incorrect string format: typeHelicopter:
+2017-03-01 00:33:37 [main] INFO  Reader - Incorrect string format: typeHelicopter:

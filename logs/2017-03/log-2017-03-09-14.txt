@@ -1,0 +1,16 @@
+2017-03-09 14:26:07 [main] INFO  Logger - Incorrect string format: typeHelicopter:
+2017-03-09 14:26:07 [main] INFO  Logger - Incorrect string format: gggg
+2017-03-09 14:27:27 [main] INFO  Logger - Incorrect string format: typeHelicopter:
+2017-03-09 14:27:27 [main] INFO  Logger - Incorrect string format: gggg
+2017-03-09 14:30:08 [main] INFO  Logger - Incorrect string format: typeHelicopter:
+2017-03-09 14:30:08 [main] INFO  Logger - Incorrect string format: gggg
+2017-03-09 14:31:06 [main] INFO  Logger - Incorrect string format: typeHelicopter:
+2017-03-09 14:31:06 [main] INFO  Logger - Incorrect string format: gggg
+2017-03-09 14:32:09 [main] INFO  Logger - Incorrect string format: typeHelicopter:
+2017-03-09 14:32:09 [main] INFO  Logger - Incorrect string format: gggg
+2017-03-09 14:32:34 [main] INFO  Logger - Incorrect string format: typeHelicopter:
+2017-03-09 14:32:34 [main] INFO  Logger - Incorrect string format: gggg
+2017-03-09 14:33:22 [main] INFO  Logger - Incorrect string format: typeHelicopter:
+2017-03-09 14:33:22 [main] INFO  Logger - Incorrect string format: gggg
+2017-03-09 14:40:58 [main] INFO  Logger - Incorrect string format: typeHelicopter:
+2017-03-09 14:40:58 [main] INFO  Logger - Incorrect string format: gggg

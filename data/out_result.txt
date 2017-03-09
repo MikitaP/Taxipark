@@ -1,0 +1,16 @@
+Taxofon- new taxi service in your district. Taxipark total cost = 112.0
+1. Vehicle number = 1155-EC3, Vehicle cost = 11.0, Human capacity = 5, Fuel type = benzin
+Equipped with climate control
+
+2. Vehicle number = 7788-GC7, Vehicle cost = 11.0, Human capacity = 3, Fuel type = diesel
+Climate control is not installed
+
+3. Vehicle number = AR7-3310, Vehicle cost = 40.0, Human capacity = 15, Fuel type = diesel
+Amount of TV screens on the board = 2
+
+4. Vehicle number = AR6-2345, Vehicle cost = 50.0, Human capacity = 2, Fuel type = Not defined
+Carrying capacity = 5000.0
+
+
+Trucks with carrying capacity between 3000 and 5500:
+AR6-2345.

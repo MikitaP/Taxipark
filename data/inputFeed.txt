@@ -1,0 +1,6 @@
+typeCar:1155-EC3,11,5,benzin,true
+typeTruck:AR6-2345,50,2,benzin,5000
+typeCar:7788-GC7,11,3,diesel,false
+typeMicrobus:AR7-3310,40,15,diesel,2
+typeHelicopter:
+gggg
